@@ -30,6 +30,12 @@ a {
 }
 a:hover {text-decoration:underline;}
 
+#publications {
+	height: 60%;
+	width: 80%;
+	overflow-y: scroll;
+}
+
 #maximage {
 	display:none;
 	position:fixed !important;
@@ -74,7 +80,7 @@ a:hover {text-decoration:underline;}
 	position:absolute;
 	bottom: 23px;
 	left:210px;
-	z-index:1001;
+	z-index:10001;
 }
 .main-nav ul li { 
 	list-style: none;
