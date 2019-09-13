@@ -15,6 +15,7 @@
 		
 		<link rel="stylesheet" href="css/maximage.css" type="text/css" media="screen" charset="utf-8" />
 		<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" charset="utf-8" />
+		<!--link rel="stylesheet" href="css/nav.css" type="text/css" media="screen" charset="utf-8" /-->
 		
 		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		
@@ -25,7 +26,10 @@
 		<![endif]-->
 	</head>
 	<body>
-
+<!--script>
+	var el = document.getElementsByTagName("body")[0];
+	el.className = "";
+</script-->
 		<!-- Social Links -->
 		<nav class="social-nav">
 			<ul>
@@ -54,11 +58,18 @@
 
 		<!-- Main Navigation -->
 		<nav class="main-nav">
+		<!--nav class="main-nav" id="topNav"-->
 			<ul>
 				<li><a href="#home" class="active">Home</a></li>
 				<li><a href="#about">About</a></li>
 				<li><a href="#education">Education</a></li>
-				<li><a href="#publications">Publications</a></li>
+				<li><a href="#publications">Publications</a>
+					<!--ul>
+					<li><a href="#publications">Academics</a></li>	
+					<li><a href="#publications">Experience</a></li>	
+					<li><a href="#publications">Achievements</a></li>
+					</ul-->
+				</li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 		</nav>
@@ -123,7 +134,7 @@
 		<section class="content hide" id="contact">
 			<h1>Contact</h1>
 			<h5>Get in touch.</h5>
-			<p>Email: <a href="#">kanti.sourav@gmail.com</a>||<a href="#">souravkaddya@cse.iitkgp.ac.in</a>||<a href="#">kanti.sourav@ieee.org</a><br />
+			<p>Email: <a href="#">kanti [DOT] sourav [AT] gmail [DOT] com</a>||<a href="#">souravkaddya [AT] cse [DOT] iitkgp [DOT] ac [DOT] in</a>||<a href="#">kanti [DOT] sourav [AT] ieee [DOT] org</a><br />
 				Phone: +91-9437141181<br /></p>
 			<p>Department of Computer Science & Engineering, Takshashila Building,<br />
 			Indian Institute of Technology Kharagpur, <br />
@@ -212,6 +223,29 @@
 				jQuery('video,object').maximage('maxcover');
 	
 			});
+			/*(function($){
+				
+		//cache nav
+		var nav = $("#topNav");
+				
+		//add indicators and hovers to submenu parents
+		nav.find("li").each(function() {
+			if ($(this).find("ul").length > 0) {
+				
+				$("<span>").text("^").appendTo($(this).children(":first"));
+
+				//show subnav on hover
+				$(this).mouseenter(function() {
+					$(this).find("ul").stop(true, true).slideDown();
+				});
+						
+				//hide submenus on exit
+				$(this).mouseleave(function() {
+					$(this).find("ul").stop(true, true).slideUp();
+				});
+			}
+		});
+	})(jQuery);*/
 		</script>
   </body>
 </html>
