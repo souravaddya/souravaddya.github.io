@@ -32,15 +32,16 @@ a:hover {text-decoration:underline;}
 
 #publications {
 	height: 60%;
-	width: 80%;
+	width: 90%;
 	overflow-y: scroll;
 }
 
+/*
 #experience {
 	height: 60%;
-	width: 80%;
+	width: 85%;
 	overflow-y: scroll;
-}
+}*/
 
 #maximage {
 	display:none;
