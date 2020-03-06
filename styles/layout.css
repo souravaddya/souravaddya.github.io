@@ -69,6 +69,22 @@ img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;
 .imgl{float:left; margin:0 15px 15px 0; clear:left;}
 .imgr{float:right; margin:0 0 15px 15px; clear:right;}
 
+table {
+  border-collapse: collapse;
+  width: 30%;
+}
+
+th, td {
+  padding: 4px;
+  text-align: center;
+}
+
+
+
+<!--table, th, td {
+  border: 0px solid black;
+}-->
+
 /*----------------------------------------------HTML 5 Overrides-------------------------------------*/
 
 address, article, aside, figcaption, figure, footer, header, nav, section{display:block; margin:0; padding:0;}
