@@ -1,0 +1,105 @@
+<!-- PG list -->
+	  <div class="spacer"></div>
+	  <div class="publicationgroup">
+			<p><h1>Post Graduate (M.Tech.)|2023-2024:</h1>
+			<ul>
+			<li><a href="https://www.linkedin.com/in/ankit-srivastava-97zddb" target="_blank">Ankit Srivastava</a>Thesis Title: <i>Virtual Network Embedding Strategy for Cost and Energy Minimization over a Physical Network</i></li>
+			</br>
+				<table>
+				<tr>
+				<th> Virtual Network Embedding</th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><a href="https://www.linkedin.com/in/manohar-anand-a063a4158" target="_blank">Manohar Anand</a>Thesis Title: <i>Deadline-aware function scheduling with auto-scaling on a serverless platform</i></li>
+			</br>	
+				<table>
+				<tr>
+				<th> Serverless Computing</th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><a href="#" target="_blank">Aastik Verma</a> Thesis Title: <i>TimeLess - Minimizing Microservices Completion Time In Serverless-enabled Edge with Energy Awareness</i></li>
+			</br>	
+				<table>
+				<tr>
+				<th>Edge-Serverless</th-->
+				</tr>
+				</table>
+			</br>
+			<li><a href="https://www.linkedin.com/in/sachin-santoki-7a724318b" target="_blank">Sachin Santoki</a>Thesis Title: <i>Blockchain- IOT based fruits Supply Chain Management</i></li>
+			</br>	
+				<table>
+				<tr>
+				<th> Blockchain </th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><a href="https://www.linkedin.com/in/ajay-hajare" target="_blank">Ajay Gajanan Hajare</a>Thesis Title: <i>Binary Offloading in IoT-Fog Interconnection Network with Task Dependency</i></li>
+			</br>	
+				<table>
+				<tr>
+				<th> IoT Offloading </th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><a href="https://www.linkedin.com/in/milindchauhan/" target="_blank">Milind Chauhan</a>Thesis Title: <i>Improving Waiting Times for Network Bound Functions</i></li>
+			</br>	
+				<table>
+				<tr>
+				<th> Serverless Computing </th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<!--li>Deepak Kumar</li> &nbsp (Under Dr. Shashidhar G Koolagudi, CSE, NITK)
+			</br>	
+				<table>
+				<tr>
+				<th> Internet of Things</th-->
+				<!--th>Attendence</th-->
+				<!--/tr>
+				</table-->
+			</br>
+			</ul>			
+			</p>
+	  </div>
+	  <!-- UG list -->
+	  <div class="spacer"></div>
+	  <div class="publicationgroup">
+			<p><h1>Under Graduate (B.Tech.)|2023-2024:</h1>
+			<ul>
+			<li><b>Group A:</b> Shivangi Tomar, Rahul Kumar, Anirudh Munnur Achal</li>
+			</br>
+				<table>
+				<tr>
+				<th> Virtual Network Embedding</th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><b>Group B:</b> Thirukovela Venkata Sarathi, Julakanti Sai Nischal Reddy, Peddaboinolu Shiva </li>
+			</br>	
+				<table>
+				<tr>
+				<th> Serverless Computing</th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			<li><b>Group C:</b> Aaidan Ram Meghwal, Abhishek singh, Harshita </li>
+			</br>	
+				<table>
+				<tr>
+				<th> Iot Offloading</th>
+				<!--th>Attendence</th-->
+				</tr>
+				</table>
+			</br>
+			</ul>			
+			</p>
+	  </div-->
